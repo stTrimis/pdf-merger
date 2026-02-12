@@ -14,4 +14,4 @@ This project is released under the **MIT License**, meaning you’re free to use
 ---
 
 ### 👤 Author
-Made with patience, curiosity, and a love for clean UI design by **Straqpy** ✨
+Made with patience, curiosity, and a love for clean UI design by **stTrimis** ✨
